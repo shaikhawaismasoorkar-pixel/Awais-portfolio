@@ -1,0 +1,6 @@
+{
+  "name": "Shaikh Awais Sarfaraz Portfolio",
+  "description": "A world-class premium personal portfolio for Shaikh Awais Sarfaraz, AI & ML Engineer and Full-Stack Web Developer. Built with React, Tailwind CSS, and an interactive Gemini-powered AI Recruiter Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
