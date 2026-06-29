@@ -134,7 +134,7 @@ export default function Hero({ darkMode }: { darkMode: boolean }) {
               onClick={() => scrollTo('contact')}
               className="px-6 py-3.5 rounded-xl accent-gradient text-white font-bold text-sm transition-all shadow-lg shadow-indigo-500/20 cursor-pointer flex items-center gap-2 group hover:scale-[1.02]"
             >
-              Hire Me 
+              Contact Me 
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </button>
             <button
